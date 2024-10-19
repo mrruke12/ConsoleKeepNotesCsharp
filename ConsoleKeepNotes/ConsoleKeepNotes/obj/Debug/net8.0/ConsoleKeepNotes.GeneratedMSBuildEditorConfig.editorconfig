@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleKeepNotes
-build_property.ProjectDir = C:\Users\mrruk\Desktop\c#\ConsoleKeepNotes\ConsoleKeepNotes\
+build_property.ProjectDir = C:\Users\user\Desktop\c#\ConsoleKeepNotesCsharp\ConsoleKeepNotes\ConsoleKeepNotes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
